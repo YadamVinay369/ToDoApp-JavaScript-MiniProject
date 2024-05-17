@@ -19,7 +19,7 @@ body{
 }
 
 .container div h1{
-    color: #faf6f0;
+    color: #fffccc;
     font-family: 'Poppins',sans-serif;
     text-align: center;
     font-size: 50px;
@@ -28,7 +28,7 @@ body{
 
 #newtask{
     position: relative;
-    background-color: #faf6f0;
+    background-color: #fffccc;
     padding: 30px 20px; 
     border-radius: 5px;
     box-shadow: 0 15px 30px rgba(0,0,0,0.3); 
@@ -45,7 +45,7 @@ body{
     font-weight: 500;
     position: relative;
     border-radius: 5px;
-    background-color: #faf6f0;
+    background-color: #fffccc;
 }
 
 #newtask input:focus{
@@ -64,7 +64,7 @@ body{
     font-size: 16px;
     background-color: black;
     border: none;
-    color: #faf6f0;
+    color: #fffccc;
     cursor: pointer;
     transition: 0.5s;
 }
@@ -75,7 +75,7 @@ body{
 }
 
 #tasks{
-    background-color: #faf6f0;
+    background-color: #fffccc;
     padding: 30px 20px;
     margin-top: 60px;
     border-radius: 10px;
@@ -84,7 +84,7 @@ body{
 }
 
 .task{
-    background-color: #faf6f0;
+    background-color: #fffccc;
     height: 50px;
     padding: 5px 10px;
     margin-top: 10px;
@@ -108,7 +108,7 @@ body{
 
 .task button{
     background-color: black;
-    color: #faf6f0;
+    color: #fffccc;
     height: 100%;
     width: 50px;
     border-radius: 5px;
